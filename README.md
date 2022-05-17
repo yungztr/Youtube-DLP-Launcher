@@ -11,4 +11,6 @@ That's it. You can create shortcuts then too
 
 --xyz--
 
+If you add some code for yourself please notice me as I will add it to the repository
+
 The code is free for everyone, change what you want EXCEPT the title :D
